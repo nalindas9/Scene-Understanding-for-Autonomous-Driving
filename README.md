@@ -5,6 +5,7 @@ Scene understanding is a vital aspect of safe and effective autonomous driving. 
 
 ### Link to [paper](https://www.researchgate.net/publication/372189733_Scene_Understanding_for_Autonomous_Driving)
 
-![Examples-of-Scene-Understanding-Results-Bounding-Box-predictions-and-directly-and_W640](https://github.com/nalindas9/ml-bigprojectlikeRCNN/assets/44141068/70d22343-c23f-4aba-8eda-0b51cbea9b3f)
-![YOLOv4-one-stage-detector-architecture_W640](https://github.com/nalindas9/ml-bigprojectlikeRCNN/assets/44141068/066b1e2c-2bae-4ef3-a496-06459ba66a26)
-![Examples-of-driveable-lane-prediction-model_W640](https://github.com/nalindas9/ml-bigprojectlikeRCNN/assets/44141068/7947e975-a3e9-4348-ab0c-afc38b056c3a)
+
+![Examples-of-driveable-lane-prediction-model_W640](https://github.com/nalindas9/Scene-Understanding-for-Autonomous-Driving/assets/44141068/d3163d72-5aad-4425-a10d-c7ee9921c008)
+![YOLOv4-one-stage-detector-architecture_W640](https://github.com/nalindas9/Scene-Understanding-for-Autonomous-Driving/assets/44141068/58f17b1a-43a5-409a-8c84-d57c5fc9f202)
+![Examples-of-Scene-Understanding-Results-Bounding-Box-predictions-and-directly-and_W640](https://github.com/nalindas9/Scene-Understanding-for-Autonomous-Driving/assets/44141068/db263689-b82c-4796-ae7c-9f5b20e7e69d)
